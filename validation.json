@@ -1,0 +1,621 @@
+{
+  "date": "2026-11-16",
+  "executed_at": "2026-11-16T07:46:14.054078+00:00",
+  "sources": 13,
+  "topics": 9,
+  "points": 28,
+  "mapped_questions": 24,
+  "quizzes": 9,
+  "checks": 113,
+  "passed": 113,
+  "results": [
+    {
+      "name": "115-2 答案表結構",
+      "passed": true,
+      "detail": "兩科各10列，每列5題，共100個選項"
+    },
+    {
+      "name": "115-2-法規 題號完整",
+      "passed": true,
+      "detail": "每科1–50題，不混接同號題"
+    },
+    {
+      "name": "115-2-投資 題號完整",
+      "passed": true,
+      "detail": "每科1–50題，不混接同號題"
+    },
+    {
+      "name": "115-2-法規 考卷科名",
+      "passed": true,
+      "detail": "證券交易相關法規與實務"
+    },
+    {
+      "name": "115-2-投資 考卷科名",
+      "passed": true,
+      "detail": "證券投資與財務分析"
+    },
+    {
+      "name": "115-1 答案表結構",
+      "passed": true,
+      "detail": "兩科各10列，每列5題，共100個選項"
+    },
+    {
+      "name": "115-1-法規 題號完整",
+      "passed": true,
+      "detail": "每科1–50題，不混接同號題"
+    },
+    {
+      "name": "115-1-投資 題號完整",
+      "passed": true,
+      "detail": "每科1–50題，不混接同號題"
+    },
+    {
+      "name": "115-1-法規 考卷科名",
+      "passed": true,
+      "detail": "證券交易相關法規與實務"
+    },
+    {
+      "name": "115-1-投資 考卷科名",
+      "passed": true,
+      "detail": "證券投資與財務分析"
+    },
+    {
+      "name": "S01 檔案完整性",
+      "passed": true,
+      "detail": "115年第2次證券商業務員試題"
+    },
+    {
+      "name": "S02 檔案完整性",
+      "passed": true,
+      "detail": "115年第2次證券商業務員試題解答"
+    },
+    {
+      "name": "S03 檔案完整性",
+      "passed": true,
+      "detail": "115年第1次證券商業務員試題"
+    },
+    {
+      "name": "S04 檔案完整性",
+      "passed": true,
+      "detail": "115年第1次證券商業務員試題解答"
+    },
+    {
+      "name": "S05 檔案完整性",
+      "passed": true,
+      "detail": "集中市場交易制度介紹"
+    },
+    {
+      "name": "S06 檔案完整性",
+      "passed": true,
+      "detail": "股票除權除息參考價計算說明"
+    },
+    {
+      "name": "S07 檔案完整性",
+      "passed": true,
+      "detail": "槓桿型及反向型ETF"
+    },
+    {
+      "name": "S08 檔案完整性",
+      "passed": true,
+      "detail": "15.2 Risk and Return to Multiple Assets"
+    },
+    {
+      "name": "S09 檔案完整性",
+      "passed": true,
+      "detail": "15.3 The Capital Asset Pricing Model (CAPM)"
+    },
+    {
+      "name": "S10 檔案完整性",
+      "passed": true,
+      "detail": "6.3 Liquidity Ratios"
+    },
+    {
+      "name": "S11 檔案完整性",
+      "passed": true,
+      "detail": "6.5 Market Value Ratios"
+    },
+    {
+      "name": "S12 檔案完整性",
+      "passed": true,
+      "detail": "6.6 Profitability Ratios and the DuPont Method"
+    },
+    {
+      "name": "S13 檔案完整性",
+      "passed": true,
+      "detail": "11.2 Dividend Discount Models (DDMs)"
+    },
+    {
+      "name": "115-2-法規-27 官方答案",
+      "passed": true,
+      "detail": "正確選項 A"
+    },
+    {
+      "name": "115-2-法規-27 教材參照",
+      "passed": true,
+      "detail": "K01.1"
+    },
+    {
+      "name": "115-2-法規-27 原卷頁碼",
+      "passed": true,
+      "detail": "PDF p.3"
+    },
+    {
+      "name": "115-2-法規-36 官方答案",
+      "passed": true,
+      "detail": "正確選項 C"
+    },
+    {
+      "name": "115-2-法規-36 教材參照",
+      "passed": true,
+      "detail": "K01.3"
+    },
+    {
+      "name": "115-2-法規-36 原卷頁碼",
+      "passed": true,
+      "detail": "PDF p.3"
+    },
+    {
+      "name": "115-1-法規-33 官方答案",
+      "passed": true,
+      "detail": "正確選項 B"
+    },
+    {
+      "name": "115-1-法規-33 教材參照",
+      "passed": true,
+      "detail": "K01.2"
+    },
+    {
+      "name": "115-1-法規-33 原卷頁碼",
+      "passed": true,
+      "detail": "PDF p.3"
+    },
+    {
+      "name": "115-1-法規-37 官方答案",
+      "passed": true,
+      "detail": "正確選項 A"
+    },
+    {
+      "name": "115-1-法規-37 教材參照",
+      "passed": true,
+      "detail": "K01.1"
+    },
+    {
+      "name": "115-1-法規-37 原卷頁碼",
+      "passed": true,
+      "detail": "PDF p.3"
+    },
+    {
+      "name": "115-2-投資-03 官方答案",
+      "passed": true,
+      "detail": "正確選項 B"
+    },
+    {
+      "name": "115-2-投資-03 教材參照",
+      "passed": true,
+      "detail": "K02.1"
+    },
+    {
+      "name": "115-2-投資-03 原卷頁碼",
+      "passed": true,
+      "detail": "PDF p.5"
+    },
+    {
+      "name": "115-2-投資-17 官方答案",
+      "passed": true,
+      "detail": "正確選項 C"
+    },
+    {
+      "name": "115-2-投資-17 教材參照",
+      "passed": true,
+      "detail": "K03.1"
+    },
+    {
+      "name": "115-2-投資-17 原卷頁碼",
+      "passed": true,
+      "detail": "PDF p.5"
+    },
+    {
+      "name": "115-2-投資-09 官方答案",
+      "passed": true,
+      "detail": "正確選項 A"
+    },
+    {
+      "name": "115-2-投資-09 教材參照",
+      "passed": true,
+      "detail": "K04.1"
+    },
+    {
+      "name": "115-2-投資-09 原卷頁碼",
+      "passed": true,
+      "detail": "PDF p.5"
+    },
+    {
+      "name": "115-2-投資-10 官方答案",
+      "passed": true,
+      "detail": "正確選項 C"
+    },
+    {
+      "name": "115-2-投資-10 教材參照",
+      "passed": true,
+      "detail": "K04.2"
+    },
+    {
+      "name": "115-2-投資-10 原卷頁碼",
+      "passed": true,
+      "detail": "PDF p.5"
+    },
+    {
+      "name": "115-2-投資-24 官方答案",
+      "passed": true,
+      "detail": "正確選項 C"
+    },
+    {
+      "name": "115-2-投資-24 教材參照",
+      "passed": true,
+      "detail": "K04.3"
+    },
+    {
+      "name": "115-2-投資-24 原卷頁碼",
+      "passed": true,
+      "detail": "PDF p.6"
+    },
+    {
+      "name": "115-1-投資-07 官方答案",
+      "passed": true,
+      "detail": "正確選項 C"
+    },
+    {
+      "name": "115-1-投資-07 教材參照",
+      "passed": true,
+      "detail": "K04.2"
+    },
+    {
+      "name": "115-1-投資-07 原卷頁碼",
+      "passed": true,
+      "detail": "PDF p.5"
+    },
+    {
+      "name": "115-2-投資-13 官方答案",
+      "passed": true,
+      "detail": "正確選項 C"
+    },
+    {
+      "name": "115-2-投資-13 教材參照",
+      "passed": true,
+      "detail": "K05.2"
+    },
+    {
+      "name": "115-2-投資-13 原卷頁碼",
+      "passed": true,
+      "detail": "PDF p.5"
+    },
+    {
+      "name": "115-1-投資-20 官方答案",
+      "passed": true,
+      "detail": "正確選項 A"
+    },
+    {
+      "name": "115-1-投資-20 教材參照",
+      "passed": true,
+      "detail": "K05.3"
+    },
+    {
+      "name": "115-1-投資-20 原卷頁碼",
+      "passed": true,
+      "detail": "PDF p.6"
+    },
+    {
+      "name": "115-1-投資-25 官方答案",
+      "passed": true,
+      "detail": "正確選項 C"
+    },
+    {
+      "name": "115-1-投資-25 教材參照",
+      "passed": true,
+      "detail": "K05.2"
+    },
+    {
+      "name": "115-1-投資-25 原卷頁碼",
+      "passed": true,
+      "detail": "PDF p.6"
+    },
+    {
+      "name": "115-2-投資-20 官方答案",
+      "passed": true,
+      "detail": "正確選項 C"
+    },
+    {
+      "name": "115-2-投資-20 教材參照",
+      "passed": true,
+      "detail": "K06.1"
+    },
+    {
+      "name": "115-2-投資-20 原卷頁碼",
+      "passed": true,
+      "detail": "PDF p.6"
+    },
+    {
+      "name": "115-2-投資-30 官方答案",
+      "passed": true,
+      "detail": "正確選項 A"
+    },
+    {
+      "name": "115-2-投資-30 教材參照",
+      "passed": true,
+      "detail": "K07.1"
+    },
+    {
+      "name": "115-2-投資-30 原卷頁碼",
+      "passed": true,
+      "detail": "PDF p.6"
+    },
+    {
+      "name": "115-1-投資-31 官方答案",
+      "passed": true,
+      "detail": "正確選項 B"
+    },
+    {
+      "name": "115-1-投資-31 教材參照",
+      "passed": true,
+      "detail": "K07.2"
+    },
+    {
+      "name": "115-1-投資-31 原卷頁碼",
+      "passed": true,
+      "detail": "PDF p.6"
+    },
+    {
+      "name": "115-1-投資-32 官方答案",
+      "passed": true,
+      "detail": "正確選項 A"
+    },
+    {
+      "name": "115-1-投資-32 教材參照",
+      "passed": true,
+      "detail": "K07.3"
+    },
+    {
+      "name": "115-1-投資-32 原卷頁碼",
+      "passed": true,
+      "detail": "PDF p.7"
+    },
+    {
+      "name": "115-2-投資-19 官方答案",
+      "passed": true,
+      "detail": "正確選項 A"
+    },
+    {
+      "name": "115-2-投資-19 教材參照",
+      "passed": true,
+      "detail": "K08.3"
+    },
+    {
+      "name": "115-2-投資-19 原卷頁碼",
+      "passed": true,
+      "detail": "PDF p.6"
+    },
+    {
+      "name": "115-2-投資-35 官方答案",
+      "passed": true,
+      "detail": "正確選項 C"
+    },
+    {
+      "name": "115-2-投資-35 教材參照",
+      "passed": true,
+      "detail": "K08.1"
+    },
+    {
+      "name": "115-2-投資-35 原卷頁碼",
+      "passed": true,
+      "detail": "PDF p.7"
+    },
+    {
+      "name": "115-2-投資-49 官方答案",
+      "passed": true,
+      "detail": "正確選項 A"
+    },
+    {
+      "name": "115-2-投資-49 教材參照",
+      "passed": true,
+      "detail": "K08.2"
+    },
+    {
+      "name": "115-2-投資-49 原卷頁碼",
+      "passed": true,
+      "detail": "PDF p.7"
+    },
+    {
+      "name": "115-1-投資-47 官方答案",
+      "passed": true,
+      "detail": "正確選項 A"
+    },
+    {
+      "name": "115-1-投資-47 教材參照",
+      "passed": true,
+      "detail": "K08.2"
+    },
+    {
+      "name": "115-1-投資-47 原卷頁碼",
+      "passed": true,
+      "detail": "PDF p.7"
+    },
+    {
+      "name": "115-1-投資-49 官方答案",
+      "passed": true,
+      "detail": "正確選項 D"
+    },
+    {
+      "name": "115-1-投資-49 教材參照",
+      "passed": true,
+      "detail": "K08.4"
+    },
+    {
+      "name": "115-1-投資-49 原卷頁碼",
+      "passed": true,
+      "detail": "PDF p.8"
+    },
+    {
+      "name": "115-2-投資-44 官方答案",
+      "passed": true,
+      "detail": "正確選項 A"
+    },
+    {
+      "name": "115-2-投資-44 教材參照",
+      "passed": true,
+      "detail": "K09.1"
+    },
+    {
+      "name": "115-2-投資-44 原卷頁碼",
+      "passed": true,
+      "detail": "PDF p.7"
+    },
+    {
+      "name": "115-2-投資-48 官方答案",
+      "passed": true,
+      "detail": "正確選項 B"
+    },
+    {
+      "name": "115-2-投資-48 教材參照",
+      "passed": true,
+      "detail": "K09.2"
+    },
+    {
+      "name": "115-2-投資-48 原卷頁碼",
+      "passed": true,
+      "detail": "PDF p.7"
+    },
+    {
+      "name": "唯一題目識別碼",
+      "passed": true,
+      "detail": "次別＋科目＋題號"
+    },
+    {
+      "name": "至少五篇實際匯入資料",
+      "passed": true,
+      "detail": "13 份文件，其中教材9篇"
+    },
+    {
+      "name": "所有考點均連到來源",
+      "passed": true,
+      "detail": "9/9"
+    },
+    {
+      "name": "每題皆有對應教材重點",
+      "passed": true,
+      "detail": "24/24"
+    },
+    {
+      "name": "自編練習的選項完整",
+      "passed": true,
+      "detail": "9/9"
+    },
+    {
+      "name": "獨立重算：配股60%價格比例",
+      "passed": true,
+      "detail": {
+        "actual": 0.625,
+        "expected": 0.625
+      }
+    },
+    {
+      "name": "獨立重算：兩倍ETF單日",
+      "passed": true,
+      "detail": {
+        "actual": 0.04,
+        "expected": 0.04
+      }
+    },
+    {
+      "name": "獨立重算：原題CAPM貼水",
+      "passed": true,
+      "detail": {
+        "actual": 0.12,
+        "expected": 0.12
+      }
+    },
+    {
+      "name": "獨立重算：要求報酬率區別",
+      "passed": true,
+      "detail": {
+        "actual": 0.13999999999999999,
+        "expected": 0.14
+      }
+    },
+    {
+      "name": "獨立重算：固定成長DDM",
+      "passed": true,
+      "detail": {
+        "actual": 108.00000000000003,
+        "expected": 108
+      }
+    },
+    {
+      "name": "獨立重算：速動資產",
+      "passed": true,
+      "detail": {
+        "actual": 250000.00000000006,
+        "expected": 250000
+      }
+    },
+    {
+      "name": "獨立重算：本益比",
+      "passed": true,
+      "detail": {
+        "actual": 8.0,
+        "expected": 8
+      }
+    },
+    {
+      "name": "獨立重算：ROE",
+      "passed": true,
+      "detail": {
+        "actual": 0.09666666666666666,
+        "expected": 0.0966666666667
+      }
+    },
+    {
+      "name": "獨立重算：銷貨成本",
+      "passed": true,
+      "detail": {
+        "actual": 1950000.0,
+        "expected": 1950000
+      }
+    },
+    {
+      "name": "獨立重算：自編CAPM",
+      "passed": true,
+      "detail": {
+        "actual": 0.05999999999999999,
+        "expected": 0.06
+      }
+    },
+    {
+      "name": "獨立重算：自編DDM",
+      "passed": true,
+      "detail": {
+        "actual": 63.00000000000001,
+        "expected": 63
+      }
+    },
+    {
+      "name": "獨立重算：自編速動比率",
+      "passed": true,
+      "detail": {
+        "actual": 2.0,
+        "expected": 2
+      }
+    },
+    {
+      "name": "獨立重算：兩日槓桿ETF",
+      "passed": true,
+      "detail": {
+        "actual": -0.040000000000000036,
+        "expected": -0.04
+      }
+    }
+  ],
+  "limitations": [
+    "這是資料結構、官方選項與算式核對，不代替專業教師逐句審閱。",
+    "未進行使用者學習成效試驗。"
+  ]
+}
